@@ -1,0 +1,17 @@
+{
+    "name": "javascript-scalable-architecture",
+    "version": "0.0.0",
+    "homepage": "https://github.com/mednix/javascript-scalable-architecture",
+    "authors": [
+        "mednix <med.programmer@gmail.com>"
+    ],
+    "main": "index.js",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
